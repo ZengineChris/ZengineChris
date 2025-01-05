@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
+<h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
 ## 🌐 Socials:
